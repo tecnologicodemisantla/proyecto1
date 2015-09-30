@@ -184,6 +184,10 @@ a:hover {
 h2, .h2 {
 	font-size: 43px;
 }
+h3, .h3 {
+	font-size: 35px;
+}
+
 #Header {
 	margin-bottom: 52px;
 	position: relative;
